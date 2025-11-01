@@ -1,7 +1,7 @@
-# ⚡60-Day AI/ML & Data Analysis Engineering Challenge⚡
+# ⚡AI/ML & Data Analysis Engineering Challenge⚡
 
 ### 🎯 Goal
-To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** — such as predictive maintenance, energy forecasting, battery optimization, and smart grid analytics.
+To master **Artificial Intelligence, Machine Learning, and Data Analysis** through **daily engineering-based coding**, focusing on real-world applications in **electrical and energy systems** such as predictive maintenance, energy forecasting, battery optimization, and smart grid analytics.
 
 This challenge is inspired by the growing intersection between **AI and the Energy Industry**, including:
 
@@ -82,4 +82,4 @@ You can source open datasets from:
 
 📅 **Duration:** 60 Days (November–December)  
 ⚙️ **Discipline:** Learn → Build → Analyze → Share  
-🔥 **Motto:** _“Engineer intelligent energy systems through AI and data.”_  
+🔥 **Motto:** _“Engineer intelligent energy systems through AI/ML and data.”_  
