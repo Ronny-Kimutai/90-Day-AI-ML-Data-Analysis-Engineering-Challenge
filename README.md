@@ -43,7 +43,7 @@ To master **Artificial Intelligence, Machine Learning, and Data Analysis** throu
 ---
 
 ## 🧰 Tech Stack
-`Python` • `Jupyter Notebook` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly`
+`Python` • `Jupyter Notebook` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `XGBoost` • `LightGBM` • `Plotly`• `And Many More!`
 
 ---
 
