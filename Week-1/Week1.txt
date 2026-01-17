@@ -1,0 +1,59 @@
+WEEK 1 — Python Refresher & Data Handling
+
+Overview:
+This week focused on strengthening core Python skills and building a solid foundation in data handling using Pandas and NumPy. The goal was to become fully comfortable loading, inspecting, cleaning, transforming, and preparing engineering datasets for later analysis and machine learning.
+
+Key Focus Areas:
+
+1. Dataset Loading & Exploration
+- Imported multiple engineering datasets (CSV).
+- Reviewed dataset structure using head(), info(), describe().
+- Checked for missing values, incorrect datatypes, outliers, and duplicates.
+
+2. Data Cleaning
+- Removed duplicates across datasets.
+- Handled missing values via dropping or filling.
+- Corrected datatype issues, especially timestamps and numerical columns.
+- Cleaned invalid entries (e.g., negative sensor values, invalid timestamps).
+
+3. Timestamp & Time-Series Preparation
+- Converted string timestamps into proper datetime objects.
+- Extracted time-based features: hour of day, day of week, month.
+- Calculated engineering metrics such as charging duration, time intervals, power/energy indicators.
+
+4. Basic Feature Engineering
+Created meaningful new columns including:
+- Charging duration (hours)
+- Average charging power (kW)
+- Daily energy totals
+- Sensor deltas between readings
+- Normalized values for comparison
+
+5. Grouping & Aggregations
+Used groupby() to identify patterns across:
+- Vehicle types
+- Charger types
+- Days of the week
+- Hours of the day
+- Sensor categories
+- Locations/stations
+
+6. Working With Multiple Datasets
+Applied all cleaning and feature engineering steps on:
+- EV charging datasets
+- Solar power generation logs
+- Smart meter consumption data
+- Motor temperature/vibration logs
+
+7. Saving Cleaned Outputs
+Exported cleaned and prepared datasets for Week 2:
+- dataset_cleaned.csv
+- dataset_v2_cleaned.csv
+- dataset_solar_cleaned.csv
+
+End-of-Week Outcome:
+By the end of Week 1, I was able to:
+- Efficiently load, inspect, and clean raw datasets
+- Handle timestamps and derive useful time-based features
+- Engineer numerical and categorical features for deeper analysis
+- Prepare cleaned datasets ready for visualization and modeling in Week 2
