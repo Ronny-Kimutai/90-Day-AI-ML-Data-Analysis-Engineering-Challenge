@@ -19,18 +19,18 @@ This challenge is inspired by the growing intersection between **AI and the Ener
 
 ---
 
-## 📅 Weekly Breakdown
+## 📅 90-Day Weekly Breakdown (12 Weeks)
 
 | Week | Focus | Engineering Examples | Tools to Focus On |
 |------|--------|----------------------|-------------------|
-| **1** | Python Refresher + Data Handling | Clean sensor logs (voltage, current, temperature, or vibration data) | Python, Jupyter, Pandas, NumPy |
-| **2** | Data Cleaning & Visualization | Plot load profiles, battery charge cycles, and inverter performance | Pandas, Matplotlib, Seaborn |
-| **3** | Exploratory Data Analysis + Statistics | Analyze correlations in EV telemetry or solar generation data | Pandas, SciPy, Plotly |
-| **4** | Regression Models (Linear, Polynomial) | Predict energy demand, power loss, or battery degradation | Scikit-Learn, NumPy |
-| **5** | Classification (Decision Tree, Random Forest, SVM) | Fault detection, component health classification, or signal pattern ID | Scikit-Learn |
-| **6** | Clustering (K-Means, DBSCAN) | Group user load patterns or identify abnormal sensor readings | Scikit-Learn, Seaborn |
-| **7** | Model Evaluation & Advanced ML (XGBoost, LightGBM) | Compare ML models for demand forecasting, optimize hyperparameters | Scikit-Learn, XGBoost, LightGBM, GridSearchCV |
-| **8** | Final Project: AI in Energy Systems | Develop an end-to-end project (e.g. predictive maintenance or smart grid optimization) | All tools above + GitHub |
+| **1-2** | Python Refresher + Data Handling | Clean sensor logs (voltage, current, temperature, or vibration data) | Python, Jupyter, Pandas, NumPy |
+| **3-4** | Data Cleaning & Visualization | Plot load profiles, battery charge cycles, and inverter performance | Pandas, Matplotlib, Seaborn |
+| **5-6** | Exploratory Data Analysis + Statistics | Analyze correlations in EV telemetry or solar generation data | Pandas, SciPy, Plotly |
+| **7-8** | Regression Models (Linear, Polynomial) | Predict energy demand, power loss, or battery degradation | Scikit-Learn, NumPy |
+| **9** | Classification (Decision Tree, Random Forest, SVM) | Fault detection, component health classification, or signal pattern ID | Scikit-Learn |
+| **10** | Clustering (K-Means, DBSCAN) | Group user load patterns or identify abnormal sensor readings | Scikit-Learn, Seaborn |
+| **11** | Model Evaluation & Advanced ML (XGBoost, LightGBM) | Compare ML models for demand forecasting, optimize hyperparameters | Scikit-Learn, XGBoost, LightGBM, GridSearchCV |
+| **12** | Final Project: AI in Energy Systems | Develop an end-to-end project (e.g. predictive maintenance or smart grid optimization) | All tools above + GitHub |
 
 ---
 
@@ -77,6 +77,6 @@ You can source open datasets from:
 
 ---
 
-📅 **Duration:** 60 Days (November–December)  
+📅 **Duration:** 90 Days  
 ⚙️ **Discipline:** Learn → Build → Analyze → Share  
 🔥 **Motto:** _“Engineer intelligent energy systems through AI/ML and data.”_  
